@@ -5,7 +5,7 @@
 ##
 Welcome To My Profile! :)
 - 🌎 I am Brazilian
-- 💻 Focused on Back-end
+- 💻 Focused on Full-stack
 - 🐍 Studying Python
 - 🐧 Linux User
 
@@ -57,7 +57,8 @@ Welcome To My Profile! :)
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![Node.Js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
-![Duolingo](https://img.shields.io/badge/-Duolingo-0D1117?style=for-the-badge&logo=duolingo&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
 ##
 
