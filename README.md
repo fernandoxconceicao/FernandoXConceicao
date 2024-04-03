@@ -6,7 +6,7 @@
 Welcome To My Profile! :)
 - 🌎 I am Brazilian
 - 💻 Focused on Full-stack
-- 🐍 Studying Python
+- 🐍 Studying Python && Java
 - 🐧 Linux User
 
 ##
