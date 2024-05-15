@@ -8,8 +8,8 @@
 
 - 🌎 _I am Brazilian_
 - 💻 _Focused on Back-end_
-- 🖥️ _The Goal is Full-Stack_
-- 🐍 _Studying Python && JavaScript_
+- 🖥️ _System Analyst and Full-Stack Developer_
+- ☕ _Studying Java && ReactJS_
 - 🎓 _Graduating in Systems Analysis and Development_
 - 🐧 _Linux User_
 - 👨‍💻 _[My DIO Profile](https://www.dio.me/users/fernandocon6con6)_
