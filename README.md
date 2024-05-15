@@ -7,7 +7,6 @@
 <center><h1><strong><em> Welcome To My Profile! :) </em></strong></h1></center>
 
 - 🌎 _I am Brazilian_
-- 💻 _Focused on Back-end_
 - 🖥️ _System Analyst and Full-Stack Developer_
 - ☕ _Studying Java && ReactJS_
 - 🎓 _Graduating in Systems Analysis and Development_
